@@ -9,7 +9,7 @@ function App() {
     <Router>
     <div>
       <header>
-        <h1> Fib Calculator </h1>
+        <h1> Fib Calculator kube</h1>
         <Link to="/">Home</Link>
         <Link to="otherPage">OtherPage</Link>
       </header>
